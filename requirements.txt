@@ -1,0 +1,8 @@
+Flask~=2.3.2
+Flask-RESTful
+opentelemetry-api==1.4.0
+opentelemetry-sdk==1.4.0
+opentelemetry-exporter-otlp-proto-grpc==1.4.0
+opentelemetry-instrumentation-requests
+redis~=4.6.0
+Werkzeug~=2.3.6
